@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658475570 source:c:\users\quang\desktop\tt_lumi\codec\ass\ass02\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

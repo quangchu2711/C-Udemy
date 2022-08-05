@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658118166 source:c:\users\quang\desktop\tt_lumi\codec\lab\bai11.1_lab11\main.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+

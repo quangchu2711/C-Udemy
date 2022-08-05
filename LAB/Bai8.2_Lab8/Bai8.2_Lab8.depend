@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657552746 source:c:\users\quang\desktop\tt_lumi\codec\lab\bai8.2_lab8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
